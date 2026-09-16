@@ -1,5 +1,4 @@
-# SCLPackage
-Cryptographic Techniques Showcase (Menu-Driven Python Program)
+# Cryptographic Techniques Showcase (Menu-Driven Python Program)
 
 This project is a menu-driven Python application that demonstrates the core concepts of four popular cryptographic techniques:
 
